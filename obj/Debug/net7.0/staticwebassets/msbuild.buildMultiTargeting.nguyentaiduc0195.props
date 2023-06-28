@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nguyentaiduc0195.props" />
+</Project>
